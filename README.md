@@ -6,3 +6,7 @@ Your task is to find all combinations of three cards that satisfy the 'HAP' cond
 When you have found all card combinations, press 'KYUL' button.
 
 This implementation also provides two difficulty levels: Beginner & Intermediate.
+
+<Screenshots of the application>
+  
+  
