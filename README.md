@@ -7,7 +7,12 @@ When you have found all card combinations, press 'KYUL' button.
 
 This implementation also provides two difficulty levels: Beginner & Intermediate.
 
-Screenshots of the application
+-- Screenshots of the application --
  
  ![Screenshot](screenshots/1.png)
+ ![Screenshot](screenshots/2.png)
+ ![Screenshot](screenshots/3.png)
+ ![Screenshot](screenshots/4.png)
+ ![Screenshot](screenshots/5.png)
+ ![Screenshot](screenshots/6.png)
   
